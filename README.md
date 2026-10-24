@@ -3,6 +3,7 @@
   
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit?style=for-the-badge&logo=googlechrome&logoColor=white)](https://public.tableau.com/views/Book1_17925810876030/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-sanskar00--debug-black?style=for-the-badge&logo=github)](https://github.com/sanskar00-debug)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
   
 </div>
 
