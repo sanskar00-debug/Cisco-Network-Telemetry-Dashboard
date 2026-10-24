@@ -1,5 +1,4 @@
 # Cisco Enterprise Infrastructure: Network Telemetry & Incident Command Dashboard
----
 <div align="center">
   
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit?style=for-the-badge&logo=googlechrome&logoColor=white)](https://public.tableau.com/views/Book1_17925810876030/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
