@@ -6,7 +6,6 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-sanskar00--debug-black?style=for-the-badge&logo=github)](https://github.com/sanskar00-debug)
   
 </div>
----
 
 ## 📌 Project Overview
 This project delivers real-time situational awareness across distributed corporate environments by unifying network capacity diagnostics with actionable security indicators. It processes multi-server application logs, syslog feeds, and NetFlow metrics to expose infrastructure vulnerabilities and performance bottlenecks before failures occur.
